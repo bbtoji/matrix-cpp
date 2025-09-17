@@ -1,0 +1,3 @@
+/home/magistrr/coding/cpp/build/CMakeFiles/Matrix.dir
+/home/magistrr/coding/cpp/build/CMakeFiles/edit_cache.dir
+/home/magistrr/coding/cpp/build/CMakeFiles/rebuild_cache.dir
